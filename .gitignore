@@ -1,0 +1,15 @@
+Thumbs.db
+.DS_Store
+.buildpath
+.project
+.settings
+.vagrant
+.idea
+*.db
+*.bak
+*.swp
+bin/*
+logs/*
+build/*
+vendor/*
+composer.lock
