@@ -3,6 +3,12 @@ Tbs-Math
 
 Amazing math component for PHP 5.3+
 
+Module Validation
+-----------------
+
+ - **Module 10**
+ - **Module 11**
+
 LICENSE
 -------
 
