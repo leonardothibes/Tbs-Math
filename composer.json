@@ -1,0 +1,35 @@
+{
+    "name"       : "tbs/math",
+    "description": "Amazing math component for PHP 5.3+",
+    "homepage"   : "http://documentup.com/leonardothibes/Tbs-Math",
+    "keywords"   : ["tbs","math"],
+    "type"       : "library",
+    "license"    : "MIT",
+    "authors": [
+        {
+            "name" : "Leonardo Thibes",
+            "email": "leonardothibes@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": ">=1.4@stable",
+        "phpunit/phpunit"          : ">=4.0@stable",
+        "phpunit/php-invoker"      : "*",
+        "phpunit/phpunit-story"    : "*",
+        "sebastian/diff"           : "*",
+        "phploc/phploc"            : "*",
+        "pdepend/pdepend"          : ">=2.0@stable",
+        "phpmd/phpmd"              : ">=2.1@stable",
+        "sebastian/phpcpd"         : ">=2.0@stable",
+        "sebastian/phpdcd"         : ">=1.0@stable"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {"": "src"}
+    }
+}
