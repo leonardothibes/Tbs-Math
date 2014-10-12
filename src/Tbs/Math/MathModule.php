@@ -3,9 +3,9 @@
 namespace Tbs\Math;
 
 /**
- * Logger frontend class.
+ * Module verify class.
  *
- * @package Tbs\Log
+ * @package Tbs\Math
  * @author Leonardo Thibes <leonardothibes@gmail.com>
  * @copyright Copyright (c) The Authors
  */
