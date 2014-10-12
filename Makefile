@@ -7,7 +7,7 @@
 
 # General Configuration
 NAME       = "Tbs\\Math"
-VERSION    = "1.0.0-beta1"
+VERSION    = "0.1"
 AUTHOR     = "Leonardo Thibes"
 STANDARD   = "PSR2"
 BASEDIR    = `pwd`
