@@ -2,7 +2,7 @@
 
 namespace Tbs\Math;
 use \Tbs\Math\MathModule;
-require_once dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'Bootstrap.php';
+require_once dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'bootstrap.php';
 
 /**
  * @author Leonardo Thibes <leonardothibes@gmail.com>
