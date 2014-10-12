@@ -1,4 +1,4 @@
-Tbs-Math
+Tbs-Math [![Build Status](https://secure.travis-ci.org/leonardothibes/Tbs-Math.png)](http://travis-ci.org/leonardothibes/Tbs-Math)
 ========
 
 Amazing math component for PHP 5.3+
